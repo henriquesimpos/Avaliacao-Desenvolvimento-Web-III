@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.dashboard-card {
+    min-height: 140px;
+}
+
+.event-card {
+    height: 100%;
+}
